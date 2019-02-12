@@ -15,7 +15,7 @@ public class App
 
         String sen;
 
-        sen = JOptionPane.showInputDialog("Hi there my name is xBot5000\nWhat is your name: ");
+        sen = JOptionPane.showInputDialog("Hi there my name is xBot5000\nWhat is your ID: ");
 
         JOptionPane.showMessageDialog(null, sen + " is now my new BFF, just kidding, unless you want to be...");
 
